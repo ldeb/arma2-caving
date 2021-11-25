@@ -7,10 +7,10 @@ Mod (in development) for the Bohemia Interactive Studio's game *ArmA2*
 
 ## Notes
 *(digged from my computer/memory, 6 years ago)*
-- Intended to work with module CA, DayZ Epoch, Snap pro
+- Intended to work with module CA, optionally: DayZ Epoch, Snap pro
 - Exemple missions file in [missions.zip](missions.zip)
-- Most recent scripts founded in: *[...]\Documents\ArmA 2 Other Profiles\myprofile\missions\caving.ProvingGrounds_PMC\caving\*
-- Specific lines of code founded in *[...]\Documents\ArmA 2 Other Profiles\myprofile\missions\caving.ProvingGrounds_PMC\*
+- Most recent scripts founded in: *[...]\Documents\ArmA 2 Other Profiles\myprofile\missions\caving.ProvingGrounds_PMC\caving\\*
+- Specific lines of code founded in *[...]\Documents\ArmA 2 Other Profiles\myprofile\missions\caving.ProvingGrounds_PMC\\*
     - at the end of *init.sqf* file:
   ``` sqf
   if (_testclient) then {
